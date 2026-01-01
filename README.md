@@ -17,3 +17,7 @@ This version is my replication of the original project.
 ✔️ Use of CTAS (Create Table As Select) for derived tables
 ✔️ ERD (Entity Relationship Diagram) for clear database structure
 ✔️ Sample SQL scripts for learning and experimentation
+
+## Acknowledgements
+
+Original project by [najirh](https://github.com/najirh) on GitHub: [Library System Management – P2](https://github.com/najirh/Library-System-Management---P2)
